@@ -10,7 +10,6 @@
 ![React Badge](https://img.shields.io/badge/React-17.0.2-45b8d8?style=flat-square)
 ![Solidity_Badge](https://img.shields.io/badge/Solidity-%5E8.0.0-363636?style=flat-square)
 ![Truffle](https://img.shields.io/badge/Truffle-5.3.14-F0E8E0?style=flat-square)
-[![Made by NatalieBravo](https://img.shields.io/badge/made%20by-NatalieBravo-blueviolet?style=flat-square)](https://www.linkedin.com/in/nataliebravo/)
 </div>
 
 # Summary
